@@ -1,5 +1,5 @@
 // SquallyDLLHack.cpp : This file contains the 'main' function. Program execution begins and ends there.
-//   DID not get working yet
+
 #include <windows.h>
 #include <iostream>
 #include <thread>
